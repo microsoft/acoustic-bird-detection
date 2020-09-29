@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+jupyter
+pandas
+soundfile
+python_speech_features
+sklearn
