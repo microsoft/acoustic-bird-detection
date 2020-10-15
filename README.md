@@ -34,7 +34,7 @@ We recommend that you start by cloning this repo, creating a virtual environment
 ------------------------------------------------------------------------------
 
 
-# Prepare your envrionment and launch the `Jupyter Notebook`
+# Prepare your environment and launch the `Jupyter Notebook`
 
 ```
 git clone https://github.com/microsoft/acoustic-bird-detection.git
